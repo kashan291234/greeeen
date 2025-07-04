@@ -3,6 +3,8 @@ import moment from "moment";
 import simpleGit from "simple-git";
 import random from "random";
 
+//randome used for randomization of github commits
+
 const path = "./data.json";
 
 const markCommit = (x, y) => {
